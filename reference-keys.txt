@@ -163,3 +163,14 @@ thika-hospital-1
 coast-general-teaching-and-refferal-hospital
 jaramogi-oginga-odinga-teaching-and-refferal-hospital
 moi-teaching-and-referral-hospital-1
+objective-4-1
+cst-ordering-1
+proportion-of-culture-rest-results-available-at-the-pps-day-1
+missed-doses-1
+kenyatta-national-hospital-1
+machakos-hospital-2
+nakuru-provincial-general-hospital-2
+thika-hospital-2
+coast-general-teaching-and-refferal-hospital-1
+jaramogi-oginga-odinga-teaching-and-refferal-hospital-1
+moi-teaching-and-referral-hospital-2
