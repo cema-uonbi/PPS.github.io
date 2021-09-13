@@ -177,3 +177,6 @@ moi-teaching-and-referral-hospital-2
 common-antibiotics-used-n391
 table-characteristics-of-the-study-participants
 results-1
+kenyatta-national-hospital-private-wing
+common-antibiotics-used-n317
+common-antibiotics-used-n8
