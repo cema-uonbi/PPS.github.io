@@ -180,3 +180,5 @@ results-1
 kenyatta-national-hospital-private-wing
 common-antibiotics-used-n317
 common-antibiotics-used-n8
+culture-and-sensitivity-test-ordered
+knh-private-wing
