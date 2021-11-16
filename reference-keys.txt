@@ -182,3 +182,10 @@ common-antibiotics-used-n317
 common-antibiotics-used-n8
 culture-and-sensitivity-test-ordered
 knh-private-wing
+common-antibiotics-used-1
+common-antibiotics-used-2
+common-antibiotics-used-3
+common-antibiotics-used-4
+common-antibiotics-used-5
+common-antibiotics-used-6
+common-antibiotics-used-7
